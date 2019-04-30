@@ -27,58 +27,58 @@
 
 ## Nome completo
 
-<!-- José da Silva. -->
+ José da Silva. 
 
 ## Localidade
 
-<!-- Cite a cidade / estado onde mora atualmente. -->
+Cite a cidade / estado onde mora atualmente. 
 
 ## Apresentação
 
-<!-- Fale um pouco sobre você e seu histórico -->
+Fale um pouco sobre você e seu histórico 
 
 ## Outras Informações
 
-<!-- Cite sua disponibilidade (de horário, de viagens, de mudança, etc), cursos, palestras. -->
+ Cite sua disponibilidade (de horário, de viagens, de mudança, etc), cursos, palestras. 
 
 ## Especialidades
 
-<!--
+
 - JavaScript
 - HTML
 - CSS
 - PHP
--->
+
 
 ## Nível
 
-<!--
+
 - [ ] Estágio
 - [x] Júnior
 - [ ] Pleno
 - [ ] Sênior
--->
+
 
 ## Tipo de contratação
 
-<!--
+
 - [x] PJ
 - [ ] CLT
 - [ ] Freela
--->
+
 
 ## Tipo de trabalho
 
-<!--
+
 - [x] Remoto - Parcial
 - [ ] Remoto - Total
 - [x] Alocado
--->
+
 
 ## Contato
 
-<!-- https://linkedin.com/in/SEU_USERNAME -->
+ https://linkedin.com/in/SEU_USERNAME 
 
 ## Site
 
-<!-- coloque seu site/blog/portfólio caso desejar -->
+ coloque seu site/blog/portfólio caso desejar 
