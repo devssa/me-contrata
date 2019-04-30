@@ -1,7 +1,7 @@
 ---
 name: CADASTRAR CURRICULO
 about: INFORME SEUS DADOS PROFISSIONAIS
-title: José da Silva
+title: 'José da Silva [JAVASCRIPT] [FRONTEND] '
 labels: ''
 assignees: devssa
 
