@@ -11,7 +11,7 @@ Um "ganha-ganha" pra todos =)
 
 ## Como se cadastrar?
 
-- Abra [uma **issue**](#) e, no título  desta _issue_, coloque a cidade/estado onde mora -
+- Abra [uma **issue**](https://github.com/devssa/me-contrata/issues/new) e, no título  desta _issue_, coloque a cidade/estado onde mora -
 entre colchetes - e o seu nome completo, assim: `[Salvador/BA] Maria Joaquina`;
 - Preencha corretamente os dados pedidos no _template_ padrão - o template aparece quando você cria uma nova issue :)
 - Aguarde alguma empresa entrar em contato.
