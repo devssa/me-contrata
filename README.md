@@ -1,5 +1,7 @@
 # Me Contrata
 
+Grupo do telegram https://t.me/joinchat/HqtPshCIreH1HyhlxNed8w
+
 ## Qual o objetivo?
 
 Nesse espaço, a pessoa que está em busca de uma nova oportunidade no mercado,
