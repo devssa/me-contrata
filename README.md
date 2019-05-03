@@ -13,8 +13,7 @@ Um "ganha-ganha" pra todos =)
 
 ## Como se cadastrar?
 
-- Abra [uma **issue**](https://github.com/devssa/me-contrata/issues) e, no título  desta _issue_, coloque a cidade/estado onde mora -
-entre colchetes - e o seu nome completo - e o que vc manja, assim: `[Salvador/BA] Maria Joaquina [FRONTEND] [JAVASCRIPT]`;
+- Abra [uma **issue**](https://github.com/devssa/me-contrata/issues) e, no título  desta _issue_,  e o seu nome completo - e o que vc manja, assim: ` Maria Joaquina [FRONTEND] [JAVASCRIPT]`;
 - Preencha corretamente os dados pedidos no _template_ padrão - o template aparece quando você cria uma nova issue :)
 - Aguarde alguma empresa entrar em contato.
 - Ao conseguir uma vaga, quem criou a _issue_ **deve fechar** a mesma
