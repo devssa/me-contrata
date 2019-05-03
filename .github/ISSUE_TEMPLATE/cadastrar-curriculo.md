@@ -29,8 +29,8 @@ assignees: devssa
   Para as outras opções não marcadas, deixe um espaço em branco no colchete, assim: [ ]
   Para visualizar se está tudo correto, antes de publicar seu perfil, clique na 
   aba "Preview".
-  4) Não esqueça de colocar cidade/estado no título, seguindo o padrão:
-  [Salvador/BA] Maria Joaquina
+  4) Não esqueça de colocar as tags entre colchetes no título para algum moderador colocar as tags, seguindo o padrão:
+[JAVA] [LARAVEL] [PHP] Maria Joaquina
   ============================
 -->
 
