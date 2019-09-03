@@ -1,6 +1,6 @@
 # Me Contrata
 
-Grupo do telegram https://t.me/joinchat/HqtPshCIreH1HyhlxNed8w
+Grupo do telegram https://t.me/co0da4r
 
 ## Qual o objetivo?
 
