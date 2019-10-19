@@ -1,6 +1,6 @@
 # Me Contrata
 > **Divulgação de Pessoas Desenvolvedoras em Salvador e Região Metropolitana via _issues_ do Github**
->> #### [Portal](https://codar.app) | [Vagas](https://github.com/devssa/onde-codar-em-salvador/issues) | [Telegram](https://t.me/co0da4r)
+>> #### [Portal](https://codar.app) | [Vagas](https://github.com/devssa/onde-codar-em-salvador/issues) | [Devs](https://github.com/devssa/me-contrata/issues) | [Telegram](https://t.me/co0da4r) 
 
 
 ## Qual o objetivo?
